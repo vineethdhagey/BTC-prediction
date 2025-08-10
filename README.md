@@ -1,5 +1,5 @@
 # BTC-prediction
-predicts the price of BTC in USD based on historical data and senitment analysis
+Predicts the price of BTC in USD based on historical data and senitment analysis
 
 1) Developed a Bitcoin price prediction model using LSTM and integrating FinBERT-based sentiment analysis in python on real-time Reddit data to forecast hourly price movements. Utilized key libraries such as TensorFlow, Transformers (Hugging Face), PRAW, Pandas, yFinance, and Scikit-learn.
 
