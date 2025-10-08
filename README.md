@@ -31,7 +31,7 @@ BTC-Prediction/
 **1) Clone the repository:**
  
  ```bash
- git clone https://github.com/dvinzzzz/BTC-prediction.git
+ git clone https://github.com/vineethdhagey/BTC-prediction.git
  cd BTC-prediction
 ```
 
