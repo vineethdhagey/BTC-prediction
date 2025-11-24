@@ -9,6 +9,7 @@ A Decision Support System (DSS) designed to predict Bitcoin (BTC) prices in USD 
 - **Interactive Web Application:** User-friendly Streamlit interface for model predictions and visualizations.
 - **Insightful Visualizations:** Displays current price, predicted price variations, percentage changes, and directional arrows indicating market trends.
 - **Robust Data Pipeline:** Merges hourly BTC price data from Yahoo Finance with corresponding sentiment data, aligned accurately on timestamps.
+- **Model Evaluation:** R²=0.85, 85% of the predictions made by my model follows the actual trend.
 
 ## 🛠 Technology Stack
 
@@ -188,7 +189,7 @@ BTC-Prediction/
 
 
 
-## 📧 Contact
+## 📞 Contact
 
 This project was developed by : **Vineeth Dhagey** and **Ekshith Satnur** as a part of our coursework **"Decision Support System"**
 
